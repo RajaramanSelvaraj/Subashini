@@ -15,7 +15,6 @@ table, th, td {
 
   
   <h1>Hi,Welcome to Subashini.com</h1>
-<h1>Introduction:</h1>
 
 
 </body>
